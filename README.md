@@ -1,6 +1,6 @@
 # CreationFreeTools
 创意多媒体创作的开源工具列表
-## 可视化制作网站
+## 可视化网站编辑器
 [vvveb](https://www.vvveb.com/vvvebjs/editor.html)
 ##  原型设计工具：Pencil
 [Pencil](http://pencil.evolus.vn/)
@@ -13,3 +13,18 @@
   <li><a href="https://krita.org/">krita(支持手绘动画）</a></li>
   <li><a href="https://maurycyliebner.github.io/">enve(您可以使用 enve 创建矢量动画、光栅动画，甚至可以使用声音和视频文件。Enve 在创建时充分考虑了灵活性和可扩展性。)</a></li>
 </ol>
+
+## 特效处理软件(图层式）
+<ol>
+  <li><a href="https://maurycyliebner.github.io/">enve</a></li>
+  <li></li>
+</ol>
+
+## 特效处理软件（节点式）
+[natron](https://natrongithub.github.io/)
+
+用于视觉效果和动态图形行业的跨平台
+和开源合成器
+Natron是一款功能强大的数字合成器，可以处理您所有的2D / 2.5D需求。其强大的OIIO文件格式和OpenFX架构使Natron成为视觉效果社区最灵活的开源合成器。它的界面和功能在所有平台上都是相同的，例如macOS，Linux和Windows。Natron具有强大的抠像，旋转/旋转，2D跟踪工具，这些工具是当前所有需要视觉效果的电影制作项目的主要内容。
+
+从2013年到2018年，Natron自豪地接受了Inria的资助，现在由其社区积极开发。
