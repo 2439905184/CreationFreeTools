@@ -17,9 +17,11 @@
 > Software for the production of 2D animation.
 Based on the software "Toonz", developed by Digital Video S.p.A. in Italy, OpenToonz has been customized by Studio Ghibli, and used for the creation of its works for many years. Dwango has launched the OpenToonz project in cooperation with Digital Video and Studio Ghibli.
 2. [tahoma2d](https://tahoma2d.org/)
-3. [krita](https://krita.org/) 支持逐帧手绘动画
-4. [enve](https://maurycyliebner.github.io/") 您可以使用 enve 创建矢量动画、光栅动画，甚至可以使用声音和视频文件。Enve 在创建时充分考虑了灵活性和可扩展性。
-5. [Glaxnimate](https://glaxnimate.mattbas.org/#) [源码](https://gitlab.com/mattbas/glaxnimate)
+> Free and powerful software,for 2D and stop motion animators.
+> 自由和强力的软件,适用于2D和停止的motion动画师
+4. [krita](https://krita.org/) 支持逐帧手绘动画
+5. [enve](https://maurycyliebner.github.io/") 您可以使用 enve 创建矢量动画、光栅动画，甚至可以使用声音和视频文件。Enve 在创建时充分考虑了灵活性和可扩展性。
+6. [Glaxnimate](https://glaxnimate.mattbas.org/#) [源码](https://gitlab.com/mattbas/glaxnimate)
 > Glaxnimate is a simple and fast vector graphics animation program.
 > 格拉克尼特是一个简单而快速的矢量图形动画程序
 
